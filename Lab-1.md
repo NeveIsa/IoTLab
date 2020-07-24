@@ -1,7 +1,7 @@
 # Lab 1
 
 
- - 3 Weeks  4Hrs/week = 12 Hours
+ - 3 Weeks  * 4Hrs/week = 12 Hours
  - Modes -> 1) Lectures and 2) Hand holding
 ---
 
@@ -47,5 +47,6 @@ c) Learning Github (only basics commands - `clone`,`add`,`commit`,`push`,`pull`)
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDY4NzMyNTEsMzQ5ODg0NjA0XX0=
+eyJoaXN0b3J5IjpbLTE2OTY5NzAwNSwtMjE0Njg3MzI1MSwzND
+k4ODQ2MDRdfQ==
 -->
