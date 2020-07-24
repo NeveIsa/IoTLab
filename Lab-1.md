@@ -7,7 +7,7 @@
 
 #### Requirements for Lab1
 For this Lab 1, One needs to have access to following Hardwares-
--   A Raspberry Pi - 2/3/4 with USC cable and Power Adapter
+-   A Raspberry Pi - 2/3/4 with USB cable and Power Adapter
 -   SD Card and SD card reader/writer
 -   Wireless Router ( Admin Access if possible)
 -   A Desktop/Laptop with Linux/Windows/MacOS with access to Internet
@@ -47,5 +47,5 @@ c) Learning Github (only basics commands - `clone`,`add`,`commit`,`push`,`pull`)
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ5ODg0NjA0XX0=
+eyJoaXN0b3J5IjpbLTIxNDY4NzMyNTEsMzQ5ODg0NjA0XX0=
 -->
